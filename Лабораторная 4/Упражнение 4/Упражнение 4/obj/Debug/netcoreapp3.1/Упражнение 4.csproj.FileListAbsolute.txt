@@ -1,0 +1,11 @@
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\bin\Debug\netcoreapp3.1\Упражнение 4.exe
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\bin\Debug\netcoreapp3.1\Упражнение 4.deps.json
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\bin\Debug\netcoreapp3.1\Упражнение 4.runtimeconfig.json
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\bin\Debug\netcoreapp3.1\Упражнение 4.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\bin\Debug\netcoreapp3.1\Упражнение 4.dll
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\bin\Debug\netcoreapp3.1\Упражнение 4.pdb
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\obj\Debug\netcoreapp3.1\Упражнение 4.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\obj\Debug\netcoreapp3.1\Упражнение 4.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\obj\Debug\netcoreapp3.1\Упражнение 4.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\obj\Debug\netcoreapp3.1\Упражнение 4.dll
+C:\Homework\C#\Лабораторная 4\Упражнение 4\Упражнение 4\obj\Debug\netcoreapp3.1\Упражнение 4.pdb

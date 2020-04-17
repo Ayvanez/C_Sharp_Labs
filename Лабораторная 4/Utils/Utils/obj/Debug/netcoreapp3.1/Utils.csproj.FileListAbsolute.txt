@@ -1,0 +1,11 @@
+C:\Homework\C#\Лабораторная 4\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.exe
+C:\Homework\C#\Лабораторная 4\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+C:\Homework\C#\Лабораторная 4\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.json
+C:\Homework\C#\Лабораторная 4\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 4\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Homework\C#\Лабораторная 4\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Homework\C#\Лабораторная 4\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 4\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 4\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 4\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+C:\Homework\C#\Лабораторная 4\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.pdb
