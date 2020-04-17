@@ -1,0 +1,11 @@
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\bin\Debug\netcoreapp3.1\Упражнение 5.exe
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\bin\Debug\netcoreapp3.1\Упражнение 5.deps.json
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\bin\Debug\netcoreapp3.1\Упражнение 5.runtimeconfig.json
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\bin\Debug\netcoreapp3.1\Упражнение 5.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\bin\Debug\netcoreapp3.1\Упражнение 5.dll
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\bin\Debug\netcoreapp3.1\Упражнение 5.pdb
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\obj\Debug\netcoreapp3.1\Упражнение 5.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\obj\Debug\netcoreapp3.1\Упражнение 5.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\obj\Debug\netcoreapp3.1\Упражнение 5.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\obj\Debug\netcoreapp3.1\Упражнение 5.dll
+C:\Homework\C#\Лабораторная 1\Упражнение 5\Упражнение 5\obj\Debug\netcoreapp3.1\Упражнение 5.pdb

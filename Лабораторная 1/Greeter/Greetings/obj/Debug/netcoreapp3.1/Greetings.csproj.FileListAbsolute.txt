@@ -1,0 +1,11 @@
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\bin\Debug\netcoreapp3.1\Greetings.exe
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\bin\Debug\netcoreapp3.1\Greetings.deps.json
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\bin\Debug\netcoreapp3.1\Greetings.runtimeconfig.json
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\bin\Debug\netcoreapp3.1\Greetings.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\bin\Debug\netcoreapp3.1\Greetings.dll
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\bin\Debug\netcoreapp3.1\Greetings.pdb
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\obj\Debug\netcoreapp3.1\Greetings.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\obj\Debug\netcoreapp3.1\Greetings.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\obj\Debug\netcoreapp3.1\Greetings.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\obj\Debug\netcoreapp3.1\Greetings.dll
+C:\Homework\C#\Лабораторная 1\Greeter\Greetings\obj\Debug\netcoreapp3.1\Greetings.pdb
