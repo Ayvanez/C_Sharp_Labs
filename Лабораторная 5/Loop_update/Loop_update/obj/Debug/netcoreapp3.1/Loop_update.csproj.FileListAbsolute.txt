@@ -1,0 +1,11 @@
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\bin\Debug\netcoreapp3.1\Loop_update.exe
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\bin\Debug\netcoreapp3.1\Loop_update.deps.json
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\bin\Debug\netcoreapp3.1\Loop_update.runtimeconfig.json
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\bin\Debug\netcoreapp3.1\Loop_update.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\bin\Debug\netcoreapp3.1\Loop_update.dll
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\bin\Debug\netcoreapp3.1\Loop_update.pdb
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\obj\Debug\netcoreapp3.1\Loop_update.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\obj\Debug\netcoreapp3.1\Loop_update.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\obj\Debug\netcoreapp3.1\Loop_update.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\obj\Debug\netcoreapp3.1\Loop_update.dll
+C:\Homework\C#\Лабораторная 5\Loop_update\Loop_update\obj\Debug\netcoreapp3.1\Loop_update.pdb
