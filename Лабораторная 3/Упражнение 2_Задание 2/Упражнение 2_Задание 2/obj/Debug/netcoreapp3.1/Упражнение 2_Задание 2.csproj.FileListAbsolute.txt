@@ -1,0 +1,11 @@
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\bin\Debug\netcoreapp3.1\Упражнение 2_Задание 2.exe
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\bin\Debug\netcoreapp3.1\Упражнение 2_Задание 2.deps.json
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\bin\Debug\netcoreapp3.1\Упражнение 2_Задание 2.runtimeconfig.json
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\bin\Debug\netcoreapp3.1\Упражнение 2_Задание 2.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\bin\Debug\netcoreapp3.1\Упражнение 2_Задание 2.dll
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\bin\Debug\netcoreapp3.1\Упражнение 2_Задание 2.pdb
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\obj\Debug\netcoreapp3.1\Упражнение 2_Задание 2.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\obj\Debug\netcoreapp3.1\Упражнение 2_Задание 2.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\obj\Debug\netcoreapp3.1\Упражнение 2_Задание 2.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\obj\Debug\netcoreapp3.1\Упражнение 2_Задание 2.dll
+C:\Homework\C#\Лабораторная 3\Упражнение 2_Задание 2\Упражнение 2_Задание 2\obj\Debug\netcoreapp3.1\Упражнение 2_Задание 2.pdb

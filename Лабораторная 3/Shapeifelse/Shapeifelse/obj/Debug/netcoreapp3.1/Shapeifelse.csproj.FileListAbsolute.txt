@@ -1,0 +1,11 @@
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.exe
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.deps.json
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.runtimeconfig.json
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.dll
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\bin\Debug\netcoreapp3.1\Shapeifelse.pdb
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\obj\Debug\netcoreapp3.1\Shapeifelse.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\obj\Debug\netcoreapp3.1\Shapeifelse.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\obj\Debug\netcoreapp3.1\Shapeifelse.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\obj\Debug\netcoreapp3.1\Shapeifelse.dll
+C:\Homework\C#\Лабораторная 3\Shapeifelse\Shapeifelse\obj\Debug\netcoreapp3.1\Shapeifelse.pdb

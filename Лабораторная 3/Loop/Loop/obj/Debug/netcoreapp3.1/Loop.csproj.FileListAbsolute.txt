@@ -1,0 +1,11 @@
+C:\Homework\C#\Лабораторная 3\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.exe
+C:\Homework\C#\Лабораторная 3\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.deps.json
+C:\Homework\C#\Лабораторная 3\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.json
+C:\Homework\C#\Лабораторная 3\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 3\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.dll
+C:\Homework\C#\Лабораторная 3\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.pdb
+C:\Homework\C#\Лабораторная 3\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 3\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 3\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 3\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+C:\Homework\C#\Лабораторная 3\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
