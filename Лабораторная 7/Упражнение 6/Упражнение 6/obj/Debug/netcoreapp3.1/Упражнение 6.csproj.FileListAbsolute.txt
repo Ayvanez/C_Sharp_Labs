@@ -1,0 +1,13 @@
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\bin\Debug\netcoreapp3.1\Упражнение 6.exe
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\bin\Debug\netcoreapp3.1\Упражнение 6.deps.json
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\bin\Debug\netcoreapp3.1\Упражнение 6.runtimeconfig.json
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\bin\Debug\netcoreapp3.1\Упражнение 6.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\bin\Debug\netcoreapp3.1\Упражнение 6.dll
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\bin\Debug\netcoreapp3.1\Упражнение 6.pdb
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\obj\Debug\netcoreapp3.1\Упражнение 6.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\obj\Debug\netcoreapp3.1\Упражнение 6.csproj.CoreCompileInputs.cache
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\obj\Debug\netcoreapp3.1\Упражнение 6.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\obj\Debug\netcoreapp3.1\Упражнение 6.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\obj\Debug\netcoreapp3.1\Упражнение 6.dll
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\obj\Debug\netcoreapp3.1\Упражнение 6.pdb
+C:\Homework\C#\Лабораторная 7\Упражнение 6\Упражнение 6\obj\Debug\netcoreapp3.1\Упражнение 6.genruntimeconfig.cache
