@@ -1,0 +1,11 @@
+C:\Homework\C#\Лабораторная 2\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.exe
+C:\Homework\C#\Лабораторная 2\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.deps.json
+C:\Homework\C#\Лабораторная 2\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.runtimeconfig.json
+C:\Homework\C#\Лабораторная 2\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 2\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.dll
+C:\Homework\C#\Лабораторная 2\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.pdb
+C:\Homework\C#\Лабораторная 2\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 2\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 2\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 2\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.dll
+C:\Homework\C#\Лабораторная 2\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.pdb

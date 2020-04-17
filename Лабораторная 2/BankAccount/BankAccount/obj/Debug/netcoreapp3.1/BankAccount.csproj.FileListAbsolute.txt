@@ -1,0 +1,11 @@
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Homework\C#\Лабораторная 2\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
