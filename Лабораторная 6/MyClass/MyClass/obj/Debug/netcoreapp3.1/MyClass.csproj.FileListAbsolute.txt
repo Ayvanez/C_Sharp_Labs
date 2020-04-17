@@ -1,0 +1,13 @@
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.exe
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.json
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CoreCompileInputs.cache
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
+C:\Homework\C#\Лабораторная работа 6\MyClass\MyClass\obj\Debug\netcoreapp3.1\MyClass.genruntimeconfig.cache
