@@ -1,0 +1,16 @@
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\bin\Debug\netcoreapp3.1\упражнение 1.exe
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\bin\Debug\netcoreapp3.1\упражнение 1.deps.json
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\bin\Debug\netcoreapp3.1\упражнение 1.runtimeconfig.json
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\bin\Debug\netcoreapp3.1\упражнение 1.runtimeconfig.dev.json
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\bin\Debug\netcoreapp3.1\упражнение 1.dll
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\bin\Debug\netcoreapp3.1\упражнение 1.pdb
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\obj\Debug\netcoreapp3.1\упражнение 1.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\obj\Debug\netcoreapp3.1\упражнение 1.csproj.CoreCompileInputs.cache
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\obj\Debug\netcoreapp3.1\упражнение 1.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\obj\Debug\netcoreapp3.1\упражнение 1.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\obj\Debug\netcoreapp3.1\упражнение 1.dll
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\obj\Debug\netcoreapp3.1\упражнение 1.pdb
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\obj\Debug\netcoreapp3.1\упражнение 1.genruntimeconfig.cache
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\bin\Debug\netcoreapp3.1\Bibl.dll
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\bin\Debug\netcoreapp3.1\Bibl.pdb
+C:\Homework\C#\Лабораторная 9\упражнение 1\упражнение 1\obj\Debug\netcoreapp3.1\упражнение 1.csproj.CopyComplete

@@ -1,0 +1,16 @@
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\bin\Debug\netcoreapp3.1\Edy_center.exe
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\bin\Debug\netcoreapp3.1\Edy_center.deps.json
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\bin\Debug\netcoreapp3.1\Edy_center.runtimeconfig.json
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\bin\Debug\netcoreapp3.1\Edy_center.runtimeconfig.dev.json
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\bin\Debug\netcoreapp3.1\Edy_center.dll
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\bin\Debug\netcoreapp3.1\Edy_center.pdb
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\bin\Debug\netcoreapp3.1\Persons.dll
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\bin\Debug\netcoreapp3.1\Persons.pdb
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\obj\Debug\netcoreapp3.1\Edy_center.csprojAssemblyReference.cache
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\obj\Debug\netcoreapp3.1\Edy_center.csproj.CoreCompileInputs.cache
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\obj\Debug\netcoreapp3.1\Edy_center.AssemblyInfoInputs.cache
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\obj\Debug\netcoreapp3.1\Edy_center.AssemblyInfo.cs
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\obj\Debug\netcoreapp3.1\Edy_center.csproj.CopyComplete
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\obj\Debug\netcoreapp3.1\Edy_center.dll
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\obj\Debug\netcoreapp3.1\Edy_center.pdb
+C:\Homework\C#\Домашнее задание\Edy_center\Edy_center\obj\Debug\netcoreapp3.1\Edy_center.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Homework\C#\Лабораторная 9\упражнение 1\Bibl\bin\Debug\netstandard2.0\Bibl.deps.json
+C:\Homework\C#\Лабораторная 9\упражнение 1\Bibl\bin\Debug\netstandard2.0\Bibl.dll
+C:\Homework\C#\Лабораторная 9\упражнение 1\Bibl\bin\Debug\netstandard2.0\Bibl.pdb
+C:\Homework\C#\Лабораторная 9\упражнение 1\Bibl\obj\Debug\netstandard2.0\Bibl.csprojAssemblyReference.cache
+C:\Homework\C#\Лабораторная 9\упражнение 1\Bibl\obj\Debug\netstandard2.0\Bibl.csproj.CoreCompileInputs.cache
+C:\Homework\C#\Лабораторная 9\упражнение 1\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfoInputs.cache
+C:\Homework\C#\Лабораторная 9\упражнение 1\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfo.cs
+C:\Homework\C#\Лабораторная 9\упражнение 1\Bibl\obj\Debug\netstandard2.0\Bibl.dll
+C:\Homework\C#\Лабораторная 9\упражнение 1\Bibl\obj\Debug\netstandard2.0\Bibl.pdb

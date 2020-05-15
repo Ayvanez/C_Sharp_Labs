@@ -1,0 +1,9 @@
+C:\Homework\C#\Домашнее задание\Edy_center\Persons\bin\Debug\netstandard2.0\Persons.deps.json
+C:\Homework\C#\Домашнее задание\Edy_center\Persons\bin\Debug\netstandard2.0\Persons.dll
+C:\Homework\C#\Домашнее задание\Edy_center\Persons\bin\Debug\netstandard2.0\Persons.pdb
+C:\Homework\C#\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.csprojAssemblyReference.cache
+C:\Homework\C#\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.csproj.CoreCompileInputs.cache
+C:\Homework\C#\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.AssemblyInfoInputs.cache
+C:\Homework\C#\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.AssemblyInfo.cs
+C:\Homework\C#\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.dll
+C:\Homework\C#\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.pdb
