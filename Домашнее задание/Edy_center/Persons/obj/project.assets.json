@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj",
+      "projectUniqueName": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj",
       "projectName": "Persons",
-      "projectPath": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj",
+      "projectPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj",
       "packagesPath": "C:\\Users\\Айван\\.nuget\\packages\\",
-      "outputPath": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Persons\\obj\\",
+      "outputPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Persons\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Айван\\AppData\\Roaming\\NuGet\\NuGet.Config",

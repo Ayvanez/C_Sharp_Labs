@@ -7,3 +7,12 @@ C:\Homework\C#\Домашнее задание\Edy_center\Persons\obj\Debug\nets
 C:\Homework\C#\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.AssemblyInfo.cs
 C:\Homework\C#\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.dll
 C:\Homework\C#\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.pdb
+C:\Users\Айван\Documents\GitHub\C_Sharp_Labs\Домашнее задание\Edy_center\Persons\bin\Debug\netstandard2.0\Persons.deps.json
+C:\Users\Айван\Documents\GitHub\C_Sharp_Labs\Домашнее задание\Edy_center\Persons\bin\Debug\netstandard2.0\Persons.dll
+C:\Users\Айван\Documents\GitHub\C_Sharp_Labs\Домашнее задание\Edy_center\Persons\bin\Debug\netstandard2.0\Persons.pdb
+C:\Users\Айван\Documents\GitHub\C_Sharp_Labs\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.csprojAssemblyReference.cache
+C:\Users\Айван\Documents\GitHub\C_Sharp_Labs\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.csproj.CoreCompileInputs.cache
+C:\Users\Айван\Documents\GitHub\C_Sharp_Labs\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.AssemblyInfoInputs.cache
+C:\Users\Айван\Documents\GitHub\C_Sharp_Labs\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.AssemblyInfo.cs
+C:\Users\Айван\Documents\GitHub\C_Sharp_Labs\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.dll
+C:\Users\Айван\Documents\GitHub\C_Sharp_Labs\Домашнее задание\Edy_center\Persons\obj\Debug\netstandard2.0\Persons.pdb

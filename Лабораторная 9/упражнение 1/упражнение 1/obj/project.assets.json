@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\упражнение 1\\упражнение 1.csproj",
+      "projectUniqueName": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\упражнение 1\\упражнение 1.csproj",
       "projectName": "упражнение 1",
-      "projectPath": "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\упражнение 1\\упражнение 1.csproj",
+      "projectPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\упражнение 1\\упражнение 1.csproj",
       "packagesPath": "C:\\Users\\Айван\\.nuget\\packages\\",
-      "outputPath": "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\упражнение 1\\obj\\",
+      "outputPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\упражнение 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Айван\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj": {
-              "projectPath": "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj"
+            "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj": {
+              "projectPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj"
             }
           }
         }
@@ -81,7 +81,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj": {}
+    "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj": {}
   },
   "projects": {
-    "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj": {
+    "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj",
+        "projectUniqueName": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj",
         "projectName": "Bibl",
-        "projectPath": "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj",
+        "projectPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj",
         "packagesPath": "C:\\Users\\Айван\\.nuget\\packages\\",
-        "outputPath": "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\Bibl\\obj\\",
+        "outputPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\Bibl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Айван\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

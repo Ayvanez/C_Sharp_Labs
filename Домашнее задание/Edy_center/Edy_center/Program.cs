@@ -13,10 +13,20 @@ namespace Edy_center
             Administrator admin = new Administrator("Lab1", new DateTime(2011, 5, 1), "Воронин", new DateTime(1991, 12, 12));
             Manager mng = new Manager("Прикладная информатика", "top", new DateTime(2015, 9, 1), "Арутенян", new DateTime(1987, 2, 24));
             List<Person> itlist = new List<Person>();
-            itlist.AddRange(new Person[] { st, tch, admin, mng});
+            itlist.AddRange(new Person[] { st, tch, admin, mng });
             foreach (Person x in itlist)
             {
                 x.getFullInfo();
+            }
+            Console.Write("\nВведите возрастной диапазон людей, о которых хотите получить информацию\nНижний предел = ");
+            int a = Int32.Parse(Console.ReadLine());
+            Console.Write("Верхний предел = ");
+            int b = Int32.Parse(Console.ReadLine());
+            foreach (Person x in itlist)
+            {
+                int age = x.getAge();
+                if (age >= a && age <= b)
+                    x.getFullInfo();
             }
         }
     }

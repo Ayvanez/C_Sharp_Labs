@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Edy_center\\Edy_center.csproj": {}
+    "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Edy_center\\Edy_center.csproj": {}
   },
   "projects": {
-    "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Edy_center\\Edy_center.csproj": {
+    "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Edy_center\\Edy_center.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Edy_center\\Edy_center.csproj",
+        "projectUniqueName": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Edy_center\\Edy_center.csproj",
         "projectName": "Edy_center",
-        "projectPath": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Edy_center\\Edy_center.csproj",
+        "projectPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Edy_center\\Edy_center.csproj",
         "packagesPath": "C:\\Users\\Айван\\.nuget\\packages\\",
-        "outputPath": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Edy_center\\obj\\",
+        "outputPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Edy_center\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Айван\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj": {
-                "projectPath": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj"
+              "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj": {
+                "projectPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj": {
+    "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj",
+        "projectUniqueName": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj",
         "projectName": "Persons",
-        "projectPath": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj",
+        "projectPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj",
         "packagesPath": "C:\\Users\\Айван\\.nuget\\packages\\",
-        "outputPath": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Persons\\obj\\",
+        "outputPath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Persons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Айван\\AppData\\Roaming\\NuGet\\NuGet.Config",

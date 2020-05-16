@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1QB/6dmsAcDHioBTu7GmAtwe/SpwUdXdug1WNePotLp/vPdk4bHk2c+3mCmyfQI+6txZ75EeapX+JVe5UO5COQ==",
+  "dgSpecHash": "btqxUCCLa5kSYFnrJ/idFAltFUtDIaAwh+esqVBcgJGduAJLQDi8SDQ+ApwCIiGZvc6WWvY1IgGf8b76zcNYoA==",
   "success": true,
-  "projectFilePath": "C:\\Homework\\C#\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj",
+  "projectFilePath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Лабораторная 9\\упражнение 1\\Bibl\\Bibl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Айван\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Айван\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

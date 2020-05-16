@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MV/BSDkzWT6grNCtkkjdlXX/IhUguoktXfQsd4Jlz+vKdr70aztEQvJUpA8MR4KHLcbZX3hBTDhjlbC0DQyArA==",
+  "dgSpecHash": "oZqT19DCHXrIVZQvPVr8f9+Ybl+tjKgZvoAZ5y5gllvkc5MgbuWtPZt8yIxSskqY33c8me9sb2sjhwp1YoBmwA==",
   "success": true,
-  "projectFilePath": "C:\\Homework\\C#\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj",
+  "projectFilePath": "C:\\Users\\Айван\\Documents\\GitHub\\C_Sharp_Labs\\Домашнее задание\\Edy_center\\Persons\\Persons.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Айван\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Айван\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
