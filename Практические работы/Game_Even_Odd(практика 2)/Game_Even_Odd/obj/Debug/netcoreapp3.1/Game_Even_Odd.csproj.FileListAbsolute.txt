@@ -1,0 +1,13 @@
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\bin\Debug\netcoreapp3.1\Game_Even_Odd.exe
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\bin\Debug\netcoreapp3.1\Game_Even_Odd.deps.json
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\bin\Debug\netcoreapp3.1\Game_Even_Odd.runtimeconfig.json
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\bin\Debug\netcoreapp3.1\Game_Even_Odd.runtimeconfig.dev.json
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\bin\Debug\netcoreapp3.1\Game_Even_Odd.dll
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\bin\Debug\netcoreapp3.1\Game_Even_Odd.pdb
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\obj\Debug\netcoreapp3.1\Game_Even_Odd.csprojAssemblyReference.cache
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\obj\Debug\netcoreapp3.1\Game_Even_Odd.csproj.CoreCompileInputs.cache
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\obj\Debug\netcoreapp3.1\Game_Even_Odd.AssemblyInfoInputs.cache
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\obj\Debug\netcoreapp3.1\Game_Even_Odd.AssemblyInfo.cs
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\obj\Debug\netcoreapp3.1\Game_Even_Odd.dll
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\obj\Debug\netcoreapp3.1\Game_Even_Odd.pdb
+C:\Homework\Технологии программирования\Game_Even_Odd\Game_Even_Odd\obj\Debug\netcoreapp3.1\Game_Even_Odd.genruntimeconfig.cache

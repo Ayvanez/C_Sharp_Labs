@@ -1,0 +1,13 @@
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\bin\Debug\netcoreapp3.1\Game_OOP.exe
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\bin\Debug\netcoreapp3.1\Game_OOP.deps.json
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\bin\Debug\netcoreapp3.1\Game_OOP.runtimeconfig.json
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\bin\Debug\netcoreapp3.1\Game_OOP.runtimeconfig.dev.json
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\bin\Debug\netcoreapp3.1\Game_OOP.dll
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\bin\Debug\netcoreapp3.1\Game_OOP.pdb
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\obj\Debug\netcoreapp3.1\Game_OOP.csprojAssemblyReference.cache
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\obj\Debug\netcoreapp3.1\Game_OOP.AssemblyInfoInputs.cache
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\obj\Debug\netcoreapp3.1\Game_OOP.AssemblyInfo.cs
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\obj\Debug\netcoreapp3.1\Game_OOP.csproj.CoreCompileInputs.cache
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\obj\Debug\netcoreapp3.1\Game_OOP.dll
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\obj\Debug\netcoreapp3.1\Game_OOP.pdb
+C:\Homework\Технологии программирования\Game_OOP\Game_OOP\obj\Debug\netcoreapp3.1\Game_OOP.genruntimeconfig.cache
